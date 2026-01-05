@@ -57,7 +57,7 @@ const App = () => {
       title: "Olist E-Commerce Analysis",
       desc: "Comprehensive business intelligence project analyzing Brazilian e-commerce trends. Utilized complex SQL joins to clean data and built interactive dashboards.",
       tech: ["SQL", "Python", "Looker Studio"],
-      link: "https://github.com/SensXation/olist-ecommerce",
+      link: "https://github.com/SensXation/olist-ecommerce-analysis",
       liveDemo: "#",
       image: "/Portfolio/Olistimage.png", 
       color: "bg-gradient-to-br from-purple-900 to-black"
@@ -249,7 +249,7 @@ const App = () => {
               My Projects
             </h3>
             <p className="text-gray-400 mt-6 max-w-2xl mx-auto">
-              A showcase of my technical journey, featuring full-stack development, automated data pipelines, and business intelligence analysis.
+              A showcase of my technical journey,showcasing my skills in web development and database management.
             </p>
           </div>
 
